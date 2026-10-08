@@ -105,9 +105,7 @@ The Decorator Pattern attaches additional responsibilities to an object dynamica
 ## ⚙️ Installation & Usage
 
 1. **Clone or Navigate to Project**:
-   ```bash
-   cd C:\Users\udhaya\.gemini\antigravity\scratch\travelflex
-   ```
+
 
 2. **Install Dependencies**:
    ```bash
